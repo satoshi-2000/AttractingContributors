@@ -20,5 +20,5 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Osaka-style or Hiroshima-style
+# List of "Osaka-style" or "Hiroshima-style"
 Osaka-style
