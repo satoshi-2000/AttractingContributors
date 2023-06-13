@@ -26,3 +26,4 @@ Both is brilliant (Peaceful) <br/>
 Hiroshima-style <br/>
 Hiroshima stayle! <br/>
 Osaka-style <br/>
+Hiroshima-style <br/>
