@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of "Osaka-style" or "Hiroshima-style"
 Osaka-style <br/>
 Both is brilliant (Peaceful) <br/>
+Hiroshima-style <br/>
