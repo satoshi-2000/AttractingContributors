@@ -10,3 +10,4 @@ Examples:
 
 # List of Ramens
 * Karakara uo(辛辛魚)
+* Sake lees ramen(酒粕ラーメン)
