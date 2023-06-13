@@ -14,7 +14,7 @@
 3. @Hikakin
 4. 関優太
 5. 釈迦
-6.
+6. たけぉ(@teamfranktakeo)
 7.
 8.
 9.
