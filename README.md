@@ -10,3 +10,4 @@ Examples:
 
 # List of Ramens
 * Karakara uo(辛辛魚)
+* Kumamoto Mayu Ramen(マー油入り熊本ラーメン)
