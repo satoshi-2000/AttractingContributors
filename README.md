@@ -10,6 +10,7 @@ Examples:
 
 # List of Ramens
 * Karakara uo(辛辛魚)
+* Kumamoto Mayu Ramen(マー油入り熊本ラーメン)
 * Sake lees ramen(酒粕ラーメン)
 * 神豚
 * The original tomato ramen sanmi(元祖トマトラーメン三味)
