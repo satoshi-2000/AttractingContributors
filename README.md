@@ -11,3 +11,9 @@ Examples:
 # List of Ramens
 * Karakara uo(辛辛魚)
 * Namae no nai ramenya(名前のないラーメン屋)
+* Ichiran(一蘭)
+* Tenkaippin(天下一品)
+* Kumamoto Mayu Ramen(マー油入り熊本ラーメン)
+* Sake lees ramen(酒粕ラーメン)
+* 神豚
+* The original tomato ramen sanmi(元祖トマトラーメン三味)
