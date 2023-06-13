@@ -30,3 +30,5 @@ Well, the day I post this is Monday.
 8. Join the Atcoder contests
 9. Fishing
 10. Playing video games
+11. Eating delicious food
+
