@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Osaka-style <br/>
 Both is brilliant (Peaceful) <br/>
 Hiroshima-style <br/>
+Hiroshima stayle!
