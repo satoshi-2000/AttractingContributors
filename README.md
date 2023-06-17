@@ -42,4 +42,6 @@ Note：Include the person's name, and write "Anonymous" when anonymous
    Anonymous
 ### Flowers do not bloom in an instant. They emerge from the earth as buds, form leaves, and grow. They grow, form buds, bloom, and bear fruit. Flowers do not bloom in an instant. A flower blooms in a single line.
    Sinmin Sakamura
-   
+
+### Everything comes to those who wait
+   Anonymous
