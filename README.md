@@ -16,7 +16,10 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project　（What’s your fav Inspiring Quotes?）
-Could you please tell me What is your Inspiring Quotes?
+Please share with me one phrase that you cherish in your life!
+
+The other day, my close friend got married. Even though I'm still a student🤣
+At this age, I find myself contemplating about the future. In such times, please give me a positive phrase to help me stay optimistic.
 
 "Let's adorn our lives with eloquent expressions, enriching them with kindness and uplifting spirits! May your own journey be graced with boundless joy and contentment."
 
