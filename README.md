@@ -45,3 +45,5 @@ Note：Include the person's name, and write "Anonymous" when anonymous
    Anonymous
 ### Everyone you meet is fighting a battle you know nothing about. Be kind. Always.
    Brad Meltzer
+### There is no road without failure, but there is a road without regret.
+   Anonymous
