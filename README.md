@@ -47,3 +47,5 @@ Note：Include the person's name, and write "Anonymous" when anonymous
    Brad Meltzer
 ### There is no road without failure, but there is a road without regret.
    Anonymous
+### Not all who wander are lost.
+   J.R.R. Tolkien
