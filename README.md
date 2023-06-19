@@ -49,3 +49,5 @@ Note：Include the person's name, and write "Anonymous" when anonymous
    Anonymous
 ### Not all who wander are lost.
    J.R.R. Tolkien
+### Every Master was Once a Disatser 
+   Anonymous
