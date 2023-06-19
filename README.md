@@ -31,23 +31,25 @@ Note：Include the person's name, and write "Anonymous" when anonymous
 
 # List of fav Inspiring Quotes
 
-### Enemy is always in myself
+### 1. Enemy is always in myself
    Keisuke Honda
-### A ship in harbor is safe, but that is not what ships are built for
+### 2. A ship in harbor is safe, but that is not what ships are built for
    John A. Shedd
-### Repetition is the mother of learning
+### 3. Repetition is the mother of learning
    Anonymous
-### Collect Moment,Not Things! 
+### 4. Collect Moment,Not Things! 
    Anonymous
-### Flowers do not bloom in an instant. They emerge from the earth as buds, form leaves, and grow. They grow, form buds, bloom, and bear fruit. Flowers do not bloom in an instant. A flower blooms in a single line.
+### 5. Flowers do not bloom in an instant. They emerge from the earth as buds, form leaves, and grow. They grow, form buds, bloom, and bear fruit. Flowers do not bloom in an instant. A flower blooms in a single line.
    Sinmin Sakamura
-### Everything comes to those who wait
+### 6. Everything comes to those who wait
    Anonymous
-### Everyone you meet is fighting a battle you know nothing about. Be kind. Always.
+### 7. Everyone you meet is fighting a battle you know nothing about. Be kind. Always.
    Brad Meltzer
-### There is no road without failure, but there is a road without regret.
+### 8. There is no road without failure, but there is a road without regret.
    Anonymous
-### Not all who wander are lost.
+### 9. Not all who wander are lost.
    J.R.R. Tolkien
-### Every Master was Once a Disatser 
+### 10. Every Master was Once a Disatser 
+   Anonymous
+### 11. Face the pain of dicipline or the pain of regret
    Anonymous
