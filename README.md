@@ -47,3 +47,5 @@ Note：Include the person's name, and write "Anonymous" when anonymous
    Brad Meltzer
 ### There is no road without failure, but there is a road without regret.
    Anonymous
+
+### Face the pain of dicipline or the pain of regret
