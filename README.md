@@ -28,4 +28,4 @@ To complete the assignment, please do the following:
 7. COYOTE
 8. Cluedo
 9. Riichi Mahjong
-10. 
+10. CATAN
