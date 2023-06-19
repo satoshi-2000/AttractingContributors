@@ -53,4 +53,5 @@ Note：Include the person's name, and write "Anonymous" when anonymous
    Anonymous
 ### 11. Face the pain of dicipline or the pain of regret
    Anonymous
-
+### 12. It means that your future hasn't been written yet. No one's has. Your future is whatever you make it. 
+   Emmett Lathrop Brown, Ph.D. / Back to the future
