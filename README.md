@@ -54,4 +54,3 @@ Note：Include the person's name, and write "Anonymous" when anonymous
 ### 11. Face the pain of dicipline or the pain of regret
    Anonymous
 
-### Face the pain of dicipline or the pain of regret
