@@ -55,3 +55,5 @@ Note：Include the person's name, and write "Anonymous" when anonymous
    Anonymous
 ### 12. It means that your future hasn't been written yet. No one's has. Your future is whatever you make it. 
    Emmett Lathrop Brown, Ph.D. / Back to the future
+### 13. No Attack No Chance
+   Takuma Sato
