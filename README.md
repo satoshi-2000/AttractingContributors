@@ -57,3 +57,5 @@ Note：Include the person's name, and write "Anonymous" when anonymous
    Emmett Lathrop Brown, Ph.D. / Back to the future
 ### 13. No Attack No Chance
    Takuma Sato
+### 14. Champions keep playing until they get it right.
+   Billie Jean King
