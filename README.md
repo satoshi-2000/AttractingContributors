@@ -29,3 +29,4 @@ To complete the assignment, please do the following:
 8. Cluedo
 9. Riichi Mahjong
 10. CATAN
+11. the killer is dancing
